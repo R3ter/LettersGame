@@ -1,0 +1,4 @@
+repository "LettersGame@R3ter@cloud"
+  path "/"
+    br "/main"
+    co "/main"
